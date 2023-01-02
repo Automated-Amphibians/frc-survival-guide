@@ -1,0 +1,31 @@
+site_name: FRC Survival Guide
+
+theme:
+  name: readthedocs
+
+
+nav:
+    - FRC Survival Guide:
+        - Home: index.md    
+    - Handbook:
+        - Education:
+            - Building :  aa-handbook/curriculum/build-curriculum.md
+            - Coding: aa-handbook/curriculum/coding-curriculum.md
+            - Coding Compentency Matrix: handbook/curriculum/compentency-matrix-coding
+        - Planning and Leadership:
+            - Kickoff Session Planning: aa-handbook/planning/kickoff-planning-session
+            - Weekly Planning Sessions: aa-handbook/planning/weekly-planning-sessions
+            - Season Checklist: checklist
+    - Other Links:
+        - FRC Team 8426: https://automated-amphibians.github.io/                
+        - YouTube Channels: youtube-channels        
+
+extra_css: 
+    - css/extra.css
+
+markdown_extensions:
+    - pymdownx.snippets
+    - pymdownx.emoji
+    - attr_list
+
+repo_url: https://github.com/Automated-Amphibians/frc-survival-guide

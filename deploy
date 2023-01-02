@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdocs build
+rm site/*.gz
+rm -rf ../automated-amphibians.github.io/frc-survival-guide
+mkdir ../automated-amphibians.github.io/frc-survival-guide
+cp -r site/* ../automated-amphibians.github.io/frc-survival-guide
+ls -las ../automated-amphibians.github.io/frc-survival-guide
