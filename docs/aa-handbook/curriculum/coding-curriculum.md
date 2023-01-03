@@ -1,12 +1,30 @@
 
 
+
 ### Computer Basics
-* Understand what a console is
+* Understanding binary, the language of computer computation and memory
+    * Everything is 0's and 1's, counting in binary
+    * How does a computer store letters?
+    * How do you get floating points?
+    * Complications, aka, things we aren't going to cover
+        * Addition, subtraction, multiplication
+        * [twos complement](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html)
+    
+
+* Understand how the command line works
+    * What is a profile?
+    * What are environment variables?    
 * Understand what a file/folder structure is.
 * Understand what a compiler, interpreter - machine code (interpreter, code that is interpreter and run on the fly)
     * Understand that compilers let you do some basic checks of your code before you use it
+        
 
 ### GIT
+* Undestanding Operating Systems
+    * A quick overview of the operating systems that matter
+        * Linux is an operating system, Ubuntu, Debian, Arch are distributions
+    * Looking at processes
+    * A much closer look at file systems
 * Understand how to use GIT: 
     * Cloning, branching, pushing and pulling from branch (remotely too), diff and merging along with conflicts    
 
