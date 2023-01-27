@@ -8,7 +8,7 @@
         * Raise a particular amount of money for next year?
         * Create a legacy for future teams to follow?
             * Handbook
-            * Develop a 5 year plan?
+            * Develop a 4 year plan?
 
 References
 * [https://penfieldrobotics.com/team-goals/](https://penfieldrobotics.com/team-goals/)

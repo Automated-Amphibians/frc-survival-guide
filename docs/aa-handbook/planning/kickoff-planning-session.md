@@ -3,8 +3,7 @@
 ### DEFINE
 
 1. Introduction
-    * Define the game
-    * List out the functions of the robot
+    * 
 
 2. Requirements? Constraints? Define the game.
     * What types of game pieces are there? How many are there?
@@ -35,6 +34,16 @@
     * Pick up game piece
     * Deliver game piece
     * Climb    
+
+4. Which of these is most important? MoSCoW 
+    * Must have
+    * Should have
+    * Could have
+    * Won't have
+
+5. How should we divide the work?
+    * 2/3 groups
+    * Volunteer to join group to solve a prioritized problem
 
 ### IDEATE - (not at kickoff)
 
