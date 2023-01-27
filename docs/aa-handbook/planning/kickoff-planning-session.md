@@ -3,7 +3,8 @@
 ### DEFINE
 
 1. Introduction
-    * 
+    * Define the game
+    * List out the functions of the robot
 
 2. Requirements? Constraints? Define the game.
     * What types of game pieces are there? How many are there?
